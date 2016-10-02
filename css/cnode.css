@@ -8,5 +8,5 @@ h3{
 	margin-top: 0;
 }
 .markdown-text img{
-	width: 100%;
+	max-width: 100%;
 }
