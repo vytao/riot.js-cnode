@@ -1,0 +1,14 @@
+{
+  "name": "cnode",
+  "version": "1.0.0",
+  "description": "使用riot.js和cnode的api实现的cnode社区webapp",
+  "main": "‘’",
+  "scripts": {
+    "start": "browser-sync start --server --files \"**/*.css, *.html, **/*.js, **/*.tag\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.0"
+  }
+}
