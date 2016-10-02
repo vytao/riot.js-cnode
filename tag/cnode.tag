@@ -6,7 +6,7 @@
 		riot.route('/',function() {
 			update();
 		})
-		riot.route('/topic...', function(){
+		riot.route('topic...', function(){
 			update(riot.route.query())
 		})
 		function update(query){
